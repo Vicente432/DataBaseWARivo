@@ -243,7 +243,7 @@
     "key": "CD",
     "latitude": -4.038333,
     "longitude": 21.758664,
-    "name": "Congo [DRC]"
+    "name": "Congo (DRC)"
   },
   {
     "key": "CF",
@@ -255,7 +255,7 @@
     "key": "CG",
     "latitude": -0.228021,
     "longitude": 15.827659,
-    "name": "Congo [Republic]"
+    "name": "Congo (Republic)"
   },
   {
     "key": "CH",
@@ -885,7 +885,7 @@
     "key": "MM",
     "latitude": 21.913965,
     "longitude": 95.956223,
-    "name": "Myanmar [Burma]"
+    "name": "Myanmar (Burma)"
   },
   {
     "key": "MN",
